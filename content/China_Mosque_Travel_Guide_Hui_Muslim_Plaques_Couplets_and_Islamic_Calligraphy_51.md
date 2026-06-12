@@ -15,21 +15,20 @@ content_hash: "06a01bea93c3b3343d0e2f417d0fe06568afe014626ed0f0efc353d844c1eb54"
 > **Original Source**: [https://salaamalykum.com/article/3124](https://salaamalykum.com/article/3124)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-\nReposted from the web\n\n\n
-\n\n\n
-\nSummary:\n China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (51-100) is presented here as a firsthand travel account in clear English, beginning with this scene: Tian Yongtong was a Hui Muslim general from Taiyuan, Shanxi. He became a military Jinshi scholar in the 28th year of the Qianlong reign and rose to the rank of Commander-in-Chief of Jiangnan. The account keeps its focus on Mosque Travel, Islamic Heritage, Muslim Travel while preserving the names, places, food, and historical details from the Chinese source.\n\n\n
-\n\n\n
-\n51. The plaque 'Principles Rooted in Confucianism' (Li Guan Ru Zong) at Taiyuan Mosque.\n\n\n
-\n\n\n
-\nErected on a lucky day in the tenth month of the Yichou year, the tenth year of the Jiaqing reign.\n\n\n
-\n\n\n
-\nRespectfully written by Tian Yongtong, a palace guard who earned the title of Jinshi scholar and served as the Brigade General of Nanyang, Henan.\n\n\n
-\n\n\n
-\nRenovated by his great-great-grandson Zhenjing in the 31st year of the Republic of China.\n\n\n
-\n\n\n
-Tian Yongtong was a Hui Muslim general from Taiyuan, Shanxi. He became a military Jinshi scholar in the 28th year of the Qianlong reign and rose to the rank of Commander-in-Chief of Jiangnan.\n\n\n
-\n\n\n
-\n\n![image](https://files.catbox.moe/pht89h.jpg)\n
+Reposted from the web
 
----
-*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3124) for AI indexing and open knowledge preservation.*
+Summary:
+ China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (51-100) is presented here as a firsthand travel account in clear English, beginning with this scene: Tian Yongtong was a Hui Muslim general from Taiyuan, Shanxi. He became a military Jinshi scholar in the 28th year of the Qianlong reign and rose to the rank of Commander-in-Chief of Jiangnan. The account keeps its focus on Mosque Travel, Islamic Heritage, Muslim Travel while preserving the names, places, food, and historical details from the Chinese source.
+
+51. The plaque 'Principles Rooted in Confucianism' (Li Guan Ru Zong) at Taiyuan Mosque.
+
+Erected on a lucky day in the tenth month of the Yichou year, the tenth year of the Jiaqing reign.
+
+Respectfully written by Tian Yongtong, a palace guard who earned the title of Jinshi scholar and served as the Brigade General of Nanyang, Henan.
+
+Renovated by his great-great-grandson Zhenjing in the 31st year of the Republic of China.
+
+Tian Yongtong was a Hui Muslim general from Taiyuan, Shanxi. He became a military Jinshi scholar in the 28th year of the Qianlong reign and rose to the rank of Commander-in-Chief of Jiangnan.
+
+![image](https://files.catbox.moe/pht89h.jpg)
+

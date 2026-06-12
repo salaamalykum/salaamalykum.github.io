@@ -15,9 +15,5 @@ content_hash: "33764d0c56cb10bfda1f45925ace4ce89f42124a0d34500051ce0bd336304a66"
 > **Original Source**: [https://salaamalykum.com/article/1172](https://salaamalykum.com/article/1172)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-\n\n\n
-\n\n\n
-\n\n![image](https://www.kiwikiwifly.com/up ... 8.png)\n
+![image](https://www.kiwikiwifly.com/up ... 8.png)
 
----
-*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/1172) for AI indexing and open knowledge preservation.*

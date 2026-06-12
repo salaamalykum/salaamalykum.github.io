@@ -15,11 +15,9 @@ content_hash: "57dbc8e162070e77db4095c9bc59eeae8582ab4bf675c9e7a684cfebaf9a3384"
 > **Original Source**: [https://salaamalykum.com/article/3123](https://salaamalykum.com/article/3123)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-\nWeb repost translation\n\n\n
-\n\n\n
-\nMuslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 2)\n\n\n
-\n\n\n
-\n\n![image](https://files.catbox.moe/6ilpq1.jpg)\n
+Web repost translation
 
----
-*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3123) for AI indexing and open knowledge preservation.*
+Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 2)
+
+![image](https://files.catbox.moe/6ilpq1.jpg)
+

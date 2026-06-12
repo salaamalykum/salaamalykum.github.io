@@ -15,17 +15,16 @@ content_hash: "e89ba177c53bbe2687cb7fdafa9a31e420fe00ab9ab9d6a3bec40c13badb3338"
 > **Original Source**: [https://salaamalykum.com/article/3097](https://salaamalykum.com/article/3097)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-\nReposted from the web\n\n\n
-\n\n\n
-\nSummary:\n This Singapore Muslim travel guide visits the mosque described as the oldest mosque in Singapore, located around Kampong Malacca and built in 1820. It keeps the history, location, and mosque observations from the original account.\n\n\n
-\n\n\n
-This place is not far from the underground mosque I mentioned last time. Located in the Kampong Malacca area of Singapore, it was built in 1820 and is the oldest mosque in Singapore. It is older than other early mosques, such as the South Indian-style Jamae Mosque, which I shared before and was built in 1826.\n\n\n
-\n\n\n
-That is a few years later than this mosque.\n\n\n
-\n\n\n
-Back to the main topic, the roof of this oldest mosque in Singapore (Picture 1) looks very much like a traditional Malay hut.\n\n\n
-\n\n\n
-\n\n![image](https://files.catbox.moe/6unaki.jpg)\n
+Reposted from the web
 
----
-*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3097) for AI indexing and open knowledge preservation.*
+Summary:
+ This Singapore Muslim travel guide visits the mosque described as the oldest mosque in Singapore, located around Kampong Malacca and built in 1820. It keeps the history, location, and mosque observations from the original account.
+
+This place is not far from the underground mosque I mentioned last time. Located in the Kampong Malacca area of Singapore, it was built in 1820 and is the oldest mosque in Singapore. It is older than other early mosques, such as the South Indian-style Jamae Mosque, which I shared before and was built in 1826.
+
+That is a few years later than this mosque.
+
+Back to the main topic, the roof of this oldest mosque in Singapore (Picture 1) looks very much like a traditional Malay hut.
+
+![image](https://files.catbox.moe/6unaki.jpg)
+

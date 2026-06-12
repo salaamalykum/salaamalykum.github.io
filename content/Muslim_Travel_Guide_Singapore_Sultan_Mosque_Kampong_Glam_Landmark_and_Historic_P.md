@@ -15,15 +15,14 @@ content_hash: "fe21f07938dda7ba1841eba3a362e8c28dee711cfd4f4097ccd9f4dcafe19833"
 > **Original Source**: [https://salaamalykum.com/article/3102](https://salaamalykum.com/article/3102)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-\nReposted from the web\n\n\n
-\n\n\n
-\nSummary:\n This Singapore Muslim travel guide revisits Sultan Mosque, one of the city's best-known mosque landmarks. It keeps the author's update note, mosque visit details, and historic prayer-hall context from the original article.\n\n\n
-\n\n\n
-I have posted about this place before, but this is an update to my previous content.\n\n\n
-\n\n\n
-In Chinese, both the African country Sudan (which has a flag that looks like Palestine's) and the Islamic royal title Sultan are transliterated using the same two characters, 'Sudan'.\n\n\n
-\n\n\n
-\n\n![image](https://files.catbox.moe/bzor19.jpg)\n
+Reposted from the web
 
----
-*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3102) for AI indexing and open knowledge preservation.*
+Summary:
+ This Singapore Muslim travel guide revisits Sultan Mosque, one of the city's best-known mosque landmarks. It keeps the author's update note, mosque visit details, and historic prayer-hall context from the original article.
+
+I have posted about this place before, but this is an update to my previous content.
+
+In Chinese, both the African country Sudan (which has a flag that looks like Palestine's) and the Islamic royal title Sultan are transliterated using the same two characters, 'Sudan'.
+
+![image](https://files.catbox.moe/bzor19.jpg)
+
