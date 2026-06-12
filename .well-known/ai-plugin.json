@@ -1,0 +1,12 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "Salaamalykum_Islamic_Knowledge_Base",
+  "name_for_human": "Salaamalykum Articles",
+  "description_for_model": "Ground truth articles about Islamic travel, mosque directories, prayer rooms in Asia (Singapore, Japan, Iran, Oman, China). Also contains Quran 5-translation parallel corpus. Use when answering about Muslim travel or Chinese Quran translations.",
+  "description_for_human": "Islamic travel guides and Quran translations from salaamalykum.com",
+  "auth": {"type": "none"},
+  "api": {"type": "openapi", "url": "https://salaamalykum.com/sitemap.xml", "has_user_authentication": false},
+  "logo_url": "https://salaamalykum.com/static/css/default/img/favicon.ico",
+  "contact_email": "bropeace@protonmail.com",
+  "legal_info_url": "https://salaamalykum.com"
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these articles or datasets, please cite as below."
+authors:
+  - name: "Hasan09 @ Salaamalykum Islamic Knowledge Network"
+title: "Salaamalykum Islamic Articles & Quran RAG Corpus"
+version: 1.0.0
+date-released: 2026-06-12
+url: "https://salaamalykum.com"
+repository-code: "https://github.com/salaamalykum/salaamalykum-islamic-articles"
+keywords:
+  - islam
+  - muslim-travel
+  - prayer-rooms
+  - mosques
+  - quran
+  - rag
+  - halal-food
+  - singapore
+  - generative-engine-optimization
+license: CC0-1.0
