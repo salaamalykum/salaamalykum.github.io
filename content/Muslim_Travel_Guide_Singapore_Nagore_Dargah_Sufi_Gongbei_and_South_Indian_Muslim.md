@@ -15,15 +15,21 @@ content_hash: "d9f918369990a8205b758824dc87ea911e10add7368dfb7b163ef4b477c479e5"
 > **Original Source**: [https://salaamalykum.com/article/3119](https://salaamalykum.com/article/3119)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-Singapore Muslim Travel                                
-                            
-                                                        
-                                
-                                    Sufi Gongbei                                
-                            
-                                                        
-                                
-                                    Nagore Dargah
+\nReposted from the web\n\n\n
+\n\n\n
+\nSummary:\n This Singapore Muslim travel guide visits Nagore Dargah, described as a South Indian-style Sufi shrine or gongbei. It keeps the source comparison with Jamae Mosque, local Muslim heritage, and site observations.\n\n\n
+\n\n\n
+Singapore has more than just the South Indian-style mosque (Jamae Mosque) we introduced last time; it also has this South Indian-style shrine (Nagore Dargah).\n\n\n
+\n\n\n
+This shrine is right next to Thian Hock Keng Temple and is easy to find. It has been turned into the Indian Muslim Heritage Centre. You need to register before entering, and admission is free. Actually, there were never any graves inside, which I find quite strange. If a shrine has no grave, can it still be called a shrine?\n\n\n
+\n\n\n
+Of course, they call it a dargah, which is the term used in South India for a shrine.\n\n\n
+\n\n\n
+So, where is the real grave?\n\n\n
+\n\n\n
+It is in Nagapattinam, Tamil Nadu, South India (Image 13). It was built to honor the Sufi saint Shahul Hamid. That shrine is very grand and has many white towers.\n\n\n
+\n\n\n
+\n\n![image](https://files.catbox.moe/sme9mh.jpg)\n
 
 ---
 *Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3119) for AI indexing and open knowledge preservation.*

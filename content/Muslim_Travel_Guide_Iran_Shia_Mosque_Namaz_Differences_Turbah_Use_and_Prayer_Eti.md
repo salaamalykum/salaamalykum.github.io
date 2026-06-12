@@ -15,15 +15,19 @@ content_hash: "aee283221301ceb13227d133cb912fa305c94a42fb0dbc5d0e376f9f91c9f695"
 > **Original Source**: [https://salaamalykum.com/article/3114](https://salaamalykum.com/article/3114)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-Prayer Etiquette                                
-                            
-                                                        
-                                
-                                    Namaz                                
-                            
-                                                        
-                                
-                                    Shia Mosque
+\nReposted from the web\n\n\n
+\n\n\n
+\nSummary:\n This Iran Muslim travel guide explains what the author saw inside a Shia mosque and how namaz practice differs in that setting. It preserves the source comparison, prayer etiquette notes, and mosque observations.\n\n\n
+\n\n\n
+To start, the Shia branch is not the same as the so-called "three-lift" (santai) practice we are familiar with in China. Please do not assume that just because Shia Muslims also lift their hands multiple times, they are practicing "three-lift."\n\n\n
+\n\n\n
+The "three-lift" we talk about is actually a Sunni practice. People just follow different schools of jurisprudence, which is why the number of times they lift their hands during namaz differs.\n\n\n
+\n\n\n
+According to my guide, before the Iran-Iraq War started, a group of Shia Iraqis fled to Iran to escape persecution by the Saddam government. Decades later, they have established themselves in Tehran, and as Arabs, they have also learned Persian.\n\n\n
+\n\n\n
+You can find them in the bazaar near Golestan Palace. One Iraqi man opened a restaurant here and even gives free tea to passersby. (Photo 1)\n\n\n
+\n\n\n
+\n\n![image](https://files.catbox.moe/4nrl6f.jpg)\n
 
 ---
 *Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3114) for AI indexing and open knowledge preservation.*

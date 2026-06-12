@@ -15,15 +15,13 @@ content_hash: "385c05f12f6e32d8f6cf64d5f34227c8fbfeeebb873a8a1941f4ac1031dfbcdc"
 > **Original Source**: [https://salaamalykum.com/article/3101](https://salaamalykum.com/article/3101)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-Ibadi Muslims                                
-                            
-                                                        
-                                
-                                    Prayer Room                                
-                            
-                                                        
-                                
-                                    Muscat Airport
+\nReposted from the web\n\n\n
+\n\n\n
+\nSummary:\n This Muscat airport prayer room guide records a visit while leaving Oman for Iran. It keeps the author's question about Ibadi Muslim prayer practice, the prayer-room setting, and the transit details unchanged.\n\n\n
+\n\n\n
+When I left Oman for Iran, I visited the prayer room here for the first time. I wanted to see if the way Ibadi Muslims pray is any different. Unfortunately, I did not see it then.\n\n\n
+\n\n\n
+\n\n![image](https://files.catbox.moe/5tivmk.jpg)\n
 
 ---
 *Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3101) for AI indexing and open knowledge preservation.*
